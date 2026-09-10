@@ -5,12 +5,12 @@ Backend Developer in Progress • DSA Enthusiast • Building Real-World Project
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cdt-Nitish/cdt-Nitish/main/assets/banner.png" alt="Nitish Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/cdt-Nitish/cdt-Nitish/main/ChatGPT Image Sep 10, 2026, 10_05_03 AM.png" alt="Nitish Banner" width="30%" height="auto"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/cdt-Nitish/cdt-Nitish/main/assets/nitish-mugshot.png" width="180" alt="Nitish"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cdt-Nitish&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -100,17 +100,17 @@ Also exploring:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=cdt-Nitish&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdt-Nitish&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
