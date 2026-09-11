@@ -72,7 +72,7 @@ Also exploring:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/nitish-joshi/" target="_blank">
+<a href="https://www.linkedin.com/in/nitish-joshi-0589b8379" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
